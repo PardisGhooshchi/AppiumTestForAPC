@@ -4,7 +4,7 @@ Amsterdam Restaurant Guide App is used for testing which you can find it in the 
 
 ## Information
 
-You can run the project by using testng.xml file.
+You can run the project by using the testng.xml file.
 
 Three test cases are automated: Add favorite restaurant, Search restaurant title ,and Send feedback
 
