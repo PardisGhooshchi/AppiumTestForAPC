@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-21T18:30:08 IRDT" name="Suite" finished-at="2022-08-21T18:31:31 IRDT" duration-ms="83476">
+    <groups>
+    </groups>
+    <test started-at="2022-08-21T18:30:08 IRDT" name="Test" finished-at="2022-08-21T18:31:31 IRDT" duration-ms="83476">
+      <class name="appiumFramework.AddFavoriteRestaurantTestCase">
+        <test-method signature="addFavoriteRestaurant()[pri:0, instance:appiumFramework.AddFavoriteRestaurantTestCase@2fb3536e]" started-at="2022-08-21T18:30:08 IRDT" name="addFavoriteRestaurant" finished-at="2022-08-21T18:30:34 IRDT" duration-ms="26363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFavoriteRestaurant -->
+      </class> <!-- appiumFramework.AddFavoriteRestaurantTestCase -->
+      <class name="appiumFramework.SearchTestCase">
+        <test-method signature="searchValidRestaurant()[pri:0, instance:appiumFramework.SearchTestCase@21e360a]" started-at="2022-08-21T18:30:34 IRDT" name="searchValidRestaurant" finished-at="2022-08-21T18:30:57 IRDT" duration-ms="22211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidRestaurant -->
+      </class> <!-- appiumFramework.SearchTestCase -->
+      <class name="appiumFramework.SendFeeedbackTestCase">
+        <test-method signature="seendFeedback()[pri:0, instance:appiumFramework.SendFeeedbackTestCase@5ba3f27a]" started-at="2022-08-21T18:30:57 IRDT" name="seendFeedback" finished-at="2022-08-21T18:31:31 IRDT" duration-ms="34849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seendFeedback -->
+      </class> <!-- appiumFramework.SendFeeedbackTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
